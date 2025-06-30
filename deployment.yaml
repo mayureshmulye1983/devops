@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: mayureshmulye/nginx:v1
+        image: mayureshmulye/nginx:v2
         ports:
         - containerPort: 80
